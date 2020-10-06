@@ -1,7 +1,7 @@
   
 <?php 
 
-	$s = "Hello my name is Aniket Patil";
+	$s = "Hello my name is Sameer Deshwal";
 	echo strlen($s).'<br>';
 	print_r (explode(" ",$s)).'\n';
 	echo '<br>'.strrev($s).'<br>';
